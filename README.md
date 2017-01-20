@@ -12,5 +12,10 @@ Curabitur lorem metus, dictum eget euismod id, interdum non ante. Praesent at er
 
 #### Kuva
 
-![]http://www02.oph.fi/etalukio/kuvataide/kurssi1/kuvat/kuva17_1.jpg
+![](http://www02.oph.fi/etalukio/kuvataide/kurssi1/kuvat/kuva17_1.jpg)
 
+Leffat | Julkaisucuosi
+
+---|---
+jeppi|´1984
+eppi|2054

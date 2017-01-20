@@ -17,5 +17,5 @@ Curabitur lorem metus, dictum eget euismod id, interdum non ante. Praesent at er
 Leffat | Julkaisucuosi
 
 ---|---
-jeppi|´1984
-eppi|2054
+jeppi | 1984
+eppi | 2054
